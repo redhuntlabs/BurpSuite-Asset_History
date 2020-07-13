@@ -14,12 +14,12 @@ The extension acts as a passive scanner which extracts the domain(s) that are in
 - Provide the path of the file ‘Asset_History.py’ and click on 'Next'.
 - Add the target domain/URL in Scope.
 
-<kbd><img src="https://github.com/redhuntlabs/BurpSuite-Asset_History/blob/master/Screenshots/Add%20Extension.jpg" width="420" height="275"></kbd> <kbd><img src="https://github.com/redhuntlabs/BurpSuite-Asset_History/blob/master/Screenshots/Add%20Domain%20to%20Scope.jpg" width="420" height="275"></kbd>
+<kbd><centre><img src="https://github.com/redhuntlabs/BurpSuite-Asset_History/blob/master/Screenshots/Add%20Extension.jpg" width="420" height="275"></centre></kbd> <kbd><centre><img src="https://github.com/redhuntlabs/BurpSuite-Asset_History/blob/master/Screenshots/Add%20Domain%20to%20Scope.jpg" width="420" height="275"></centre></kbd>
 
 # Usage
 - Add a URL to the 'Scope' under the 'Target' tab. The extension will identify historic URLs for it. 
 
-<kbd><img src="https://github.com/redhuntlabs/BurpSuite-Asset_History/blob/master/Screenshots/Asset%20History.jpg" width="420" height="275"></kbd> 
+<kbd><centre><img src="https://github.com/redhuntlabs/BurpSuite-Asset_History/blob/master/Screenshots/Asset%20History.jpg" width="420" height="275"></centre></kbd> 
 
 # Requirements
 - [Jython 2.7.0](https://www.jython.org/download)
